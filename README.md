@@ -4,8 +4,8 @@ open weatherのAPIを使用して、weather applicationを開発してみまし�
 APIを一度も使ったことがなかったので、勉強がてら作ってみました。  
 それと同時にTailwind css にも初挑戦しました。  
 すごく使いやすかったので、次のreactプロジェクトを開発するときはまた採用しようかなと思います。<br><br>
-#使用言語  
+# 使用言語  
 - react  
 - Tailwind css  
 - github pages  
-  
+
