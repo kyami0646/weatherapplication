@@ -9,3 +9,4 @@ APIを一度も使ったことがなかったので、勉強がてら作って�
 - Tailwind css  
 - github pages  
 
+参考にしたサイト⇨https://reffect.co.jp/react/react-tailwind#OpenWeatherAPI
