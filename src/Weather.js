@@ -27,7 +27,7 @@ function Weather({city_name, color_name}) {
 
     return (
         <div className="p-4">
-        <div className={`bg-gradient-to-r from-${color_name}-500 to-${color_name}-300
+        <div class={`bg-gradient-to-r from-cyan-500 to-blue-500
                 w-96 h-56 m-auto rounded-xl shadow-2xl 
                 transform hover:scale-110 transition-transform
                 text-white relative`}>      

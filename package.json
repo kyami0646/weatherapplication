@@ -2,6 +2,7 @@
   "name": "weatherapplication",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://kyami0646.github.io/weatherapplication",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -16,6 +17,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "deploy": "yarn build && gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -38,6 +40,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
+    "gh-pages": "^4.0.0",
     "postcss": "^8.4.13",
     "tailwindcss": "^3.0.24"
   }
